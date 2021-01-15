@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+    <test name="Login Test">
+        <classes>
+            <class name="TestNGAnnotations"/>
+        </classes>
+    </test>
+
+    <test name="Add Employee Test">
+        <classes>
+            <class name="TestNGAnnotations"/>
+        </classes>
+    </test>
+</suite>
